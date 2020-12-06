@@ -161,7 +161,7 @@ void History::read_history()
 	  	History::insert(transaction);
 	}
 
-/*while(ece150::next_trans_entry()) {
+	/*while(ece150::next_trans_entry()) {
 		std :: cout << ece150::next_trans_entry();
 
 		Transaction *transaction = new Transaction(ece150::get_trans_symbol(), ece150::get_trans_day(),
