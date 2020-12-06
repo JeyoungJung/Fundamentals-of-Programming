@@ -7,5 +7,5 @@ These were all completed individually.
 
 Geese Spotter: Uses 1D array and Bitwise functions to implement the game "Minesweeper".
 
-Transactions: Uses linked list and sorting algorithms to sort various stock purchases (given from a txt file) into purchase date order. The task was to implement those features in the file name History_Transaction_definitions.cpp.
+Transactions: Uses linked list and sorting algorithms to sort various stock purchases (given from a txt file) into purchase date order. The task was to implement these features into the file "History_Transaction_definitions.cpp".
  
