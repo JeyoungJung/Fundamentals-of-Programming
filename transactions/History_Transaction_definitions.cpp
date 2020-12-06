@@ -160,7 +160,7 @@ void History::read_history()
 								 					   ece150::get_trans_amount());
 	  	History::insert(transaction);
 	}
-
+	
 	/*while(ece150::next_trans_entry()) {
 		std :: cout << ece150::next_trans_entry();
 
