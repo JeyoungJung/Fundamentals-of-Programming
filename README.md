@@ -6,5 +6,6 @@ NOTICE: The use of this source to aid in assignments for the University of Water
 These were all conducted individually
 
 Geese Spotter: Uses 1D array and Bitwise functions to implement the game "Minesweeper".
+
 Transactions: Uses linked list and sorting algorithms to sort various stock purchases (given from a txt file) into purchase date order. 
  
